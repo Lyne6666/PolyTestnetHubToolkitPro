@@ -1,2 +1,1 @@
-# PolyTestnetHubToolkitPro
-Advanced PolyTestnetHubToolkitPro project
+.
